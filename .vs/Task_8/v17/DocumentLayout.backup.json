@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\ITI Live\\ITI_tasks\\MVC\\Task_8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E615AEA0-3995-4752-90BE-CDF986EF1709}|Task_8\\Task_8.csproj|f:\\iti live\\iti_tasks\\mvc\\task_8\\task_8\\pages\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E615AEA0-3995-4752-90BE-CDF986EF1709}|Task_8\\Task_8.csproj|solutionrelative:task_8\\pages\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E615AEA0-3995-4752-90BE-CDF986EF1709}|Task_8\\Task_8.csproj|f:\\iti live\\iti_tasks\\mvc\\task_8\\task_8\\pages\\product\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E615AEA0-3995-4752-90BE-CDF986EF1709}|Task_8\\Task_8.csproj|solutionrelative:task_8\\pages\\product\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E615AEA0-3995-4752-90BE-CDF986EF1709}|Task_8\\Task_8.csproj|f:\\iti live\\iti_tasks\\mvc\\task_8\\task_8\\pages\\product\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E615AEA0-3995-4752-90BE-CDF986EF1709}|Task_8\\Task_8.csproj|solutionrelative:task_8\\pages\\product\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E615AEA0-3995-4752-90BE-CDF986EF1709}|Task_8\\Task_8.csproj|f:\\iti live\\iti_tasks\\mvc\\task_8\\task_8\\pages\\product\\update.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E615AEA0-3995-4752-90BE-CDF986EF1709}|Task_8\\Task_8.csproj|solutionrelative:task_8\\pages\\product\\update.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E615AEA0-3995-4752-90BE-CDF986EF1709}|Task_8\\Task_8.csproj|f:\\iti live\\iti_tasks\\mvc\\task_8\\task_8\\pages\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E615AEA0-3995-4752-90BE-CDF986EF1709}|Task_8\\Task_8.csproj|solutionrelative:task_8\\pages\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E615AEA0-3995-4752-90BE-CDF986EF1709}|Task_8\\Task_8.csproj|f:\\iti live\\iti_tasks\\mvc\\task_8\\task_8\\pages\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E615AEA0-3995-4752-90BE-CDF986EF1709}|Task_8\\Task_8.csproj|solutionrelative:task_8\\pages\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E615AEA0-3995-4752-90BE-CDF986EF1709}|Task_8\\Task_8.csproj|f:\\iti live\\iti_tasks\\mvc\\task_8\\task_8\\pages\\product\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E615AEA0-3995-4752-90BE-CDF986EF1709}|Task_8\\Task_8.csproj|solutionrelative:task_8\\pages\\product\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E615AEA0-3995-4752-90BE-CDF986EF1709}|Task_8\\Task_8.csproj|f:\\iti live\\iti_tasks\\mvc\\task_8\\task_8\\pages\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E615AEA0-3995-4752-90BE-CDF986EF1709}|Task_8\\Task_8.csproj|solutionrelative:task_8\\pages\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "F:\\ITI Live\\ITI_tasks\\MVC\\Task_8\\Task_8\\Pages\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Task_8\\Pages\\Product\\Delete.cshtml",
+              "ToolTip": "F:\\ITI Live\\ITI_tasks\\MVC\\Task_8\\Task_8\\Pages\\Product\\Delete.cshtml",
+              "RelativeToolTip": "Task_8\\Pages\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-05T10:50:12.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "F:\\ITI Live\\ITI_tasks\\MVC\\Task_8\\Task_8\\Pages\\Product\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Task_8\\Pages\\Product\\Delete.cshtml.cs",
+              "ToolTip": "F:\\ITI Live\\ITI_tasks\\MVC\\Task_8\\Task_8\\Pages\\Product\\Delete.cshtml.cs",
+              "RelativeToolTip": "Task_8\\Pages\\Product\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T10:50:11.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Update.cshtml.cs",
+              "DocumentMoniker": "F:\\ITI Live\\ITI_tasks\\MVC\\Task_8\\Task_8\\Pages\\Product\\Update.cshtml.cs",
+              "RelativeDocumentMoniker": "Task_8\\Pages\\Product\\Update.cshtml.cs",
+              "ToolTip": "F:\\ITI Live\\ITI_tasks\\MVC\\Task_8\\Task_8\\Pages\\Product\\Update.cshtml.cs",
+              "RelativeToolTip": "Task_8\\Pages\\Product\\Update.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T10:38:32.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "F:\\ITI Live\\ITI_tasks\\MVC\\Task_8\\Task_8\\Pages\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "Task_8\\Pages\\Product\\Update.cshtml",
+              "ToolTip": "F:\\ITI Live\\ITI_tasks\\MVC\\Task_8\\Task_8\\Pages\\Product\\Update.cshtml",
+              "RelativeToolTip": "Task_8\\Pages\\Product\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-05T10:38:31.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "F:\\ITI Live\\ITI_tasks\\MVC\\Task_8\\Task_8\\Pages\\Product\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Task_8\\Pages\\Product\\Create.cshtml.cs",
+              "ToolTip": "F:\\ITI Live\\ITI_tasks\\MVC\\Task_8\\Task_8\\Pages\\Product\\Create.cshtml.cs",
+              "RelativeToolTip": "Task_8\\Pages\\Product\\Create.cshtml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T10:38:26.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\ITI Live\\ITI_tasks\\MVC\\Task_8\\Task_8\\Pages\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Task_8\\Pages\\Product\\Create.cshtml",
+              "ToolTip": "F:\\ITI Live\\ITI_tasks\\MVC\\Task_8\\Task_8\\Pages\\Product\\Create.cshtml",
+              "RelativeToolTip": "Task_8\\Pages\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAawBUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-05T10:38:24.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "F:\\ITI Live\\ITI_tasks\\MVC\\Task_8\\Task_8\\Pages\\Product\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Task_8\\Pages\\Product\\Index.cshtml.cs",
+              "ToolTip": "F:\\ITI Live\\ITI_tasks\\MVC\\Task_8\\Task_8\\Pages\\Product\\Index.cshtml.cs",
+              "RelativeToolTip": "Task_8\\Pages\\Product\\Index.cshtml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T07:56:08.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\ITI Live\\ITI_tasks\\MVC\\Task_8\\Task_8\\Pages\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Task_8\\Pages\\Product\\Index.cshtml",
+              "ToolTip": "F:\\ITI Live\\ITI_tasks\\MVC\\Task_8\\Task_8\\Pages\\Product\\Index.cshtml",
+              "RelativeToolTip": "Task_8\\Pages\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-05T07:56:02.384Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
