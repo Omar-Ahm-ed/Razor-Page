@@ -1,0 +1,32 @@
+﻿@page
+@model Task_8.Pages.Product.IndexModel
+@{
+}
+
+<h2>Products </h2>
+<a  asp-page="Create" class="btn btn-warning" >Craete New Product</a>
+<table  class="table">
+    <thead>
+        <tr>
+            <th>Product ID</th>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Category Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model.Products)
+        {
+            <tr>
+                <td>@product.Id</td>
+                <td>@product.Name</td>
+                <td>@product.Price.ToString("C")</td>
+                <td>@product.Category.Name</td>
+                <td>
+                    <a asp-page="Update" asp-route-id="@product.Id" class="btn btn-success">Update</a> |
+                    <a asp-page="Delete" asp-route-id="@product.Id" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
